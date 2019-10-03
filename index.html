@@ -6,7 +6,7 @@
     <style type="text/css">
     text{
         font-family:Helvetica, Arial, sans-serif;
-        font-size:11px;
+        font-size:20x;
         pointer-events:none;
     }
     #chart{
@@ -135,7 +135,7 @@
                         .text(data[picked].question);
                     oldrotation = rotation;
                     delete data[picked];
-                    console.log(data[picked]);
+                    
                     container.on("click", spin);
                 });
         }
