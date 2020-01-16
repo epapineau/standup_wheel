@@ -13,7 +13,6 @@ var data = [
         {"label":"Aron",  "value":1,  "question":"What did you do yesterday, Aron?"},
         {"label":"Paul",  "value":1,  "question":"What did you do yesterday, Paul?"},
         {"label":"Afzal",  "value":1,  "question":"What did you do yesterday, Afzal?"},
-        {"label":"Jesse",  "value":1,  "question":"What did you do yesterday, Jesse?"},
         {"label":"Stephen",  "value":1,  "question":"What did you do yesterday, Stephen?"},
         {"label":"Elize",  "value":1,  "question":"What did you do yesterday, Elize?"},
         {"label":"Rob",  "value":1,  "question":"What did you do yesterday, Rob?"},
