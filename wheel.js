@@ -21,7 +21,8 @@ var data = [
         {"label":"Brian",  "value":1,  "question":"What did you do yesterday, Brian?"},
         {"label":"Allen",  "value":1,  "question":"What did you do yesterday, Allen?"},
         {"label":"Ed",  "value":1,  "question":"What did you do yesterday, Ed?"},
-        {"label":"Melina",  "value":1,  "question":"What did you do yesterday, Melina?"}
+        {"label":"Melina",  "value":1,  "question":"What did you do yesterday, Melina?"},
+        {"label":"Tim",  "value":1,  "question":"What did you do yesterday, Tim?"}
 
 ];
 var svg = d3.select('#chart')
